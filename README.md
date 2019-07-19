@@ -1,6 +1,22 @@
 # Group-Expense-Tracker
 Progressive Web App to keep track of your expenses
 
+## Brief:  
+\<app name\> is a group expense tracker app. It is a progressive web app which allows users to organize group expenses, and reimburse debts. It also allows individuals to track their expenses.
+
+## Assumptions:
+\<app name\> will be used in android, ios platform
+User will install PWA if he wants to use it offline.
+
+## User cases:
+- Sign in
+- Create group
+- View transactions
+- Create transaction
+- View balance sheet
+- Reimburse in app
+- Supporting standard payment gateways to reimburse debts
+
 ## Requirements
 ### Functional Requirements
 - sign in
@@ -26,9 +42,9 @@ Progressive Web App to keep track of your expenses
       - date
       - payer
       - paid for
-      - username
-      - amount
-      - currency
+        - username
+        - amount
+        - currency
       - image (useful in case of bill, tickets)
    - view balance sheet
       - graphical representation of member status (debt/profit)

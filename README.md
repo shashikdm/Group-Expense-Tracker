@@ -14,7 +14,7 @@ Progressive Web App to keep track of your expenses
   - view latest transaction of group members
   - filters for transactions
     - show my transaction
-      - sort by
+    - sort by
       - title :arrow_up: :arrow_down:
       - amount :arrow_up: :arrow_down:
       - date of creation :arrow_up: :arrow_down:
